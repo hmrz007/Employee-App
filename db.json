@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": "5",
+      "name": "h",
+      "email": "h@gmail.com",
+      "mobile": "23456789",
+      "salary": "345678"
+    }
+  ]
+}
